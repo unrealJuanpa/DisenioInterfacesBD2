@@ -59,5 +59,45 @@ namespace DisenioInterfacesBD2.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap aa98ad5d9f6d164023ecdccd1fc0dfe1 {
+            get {
+                object obj = ResourceManager.GetObject("aa98ad5d9f6d164023ecdccd1fc0dfe1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gettyimages_506323310_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("gettyimages-506323310-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1326814403_612x612k {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1326814403-612x612k", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap triangle_background {
+            get {
+                object obj = ResourceManager.GetObject("triangle_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
